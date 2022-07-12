@@ -1,3 +1,5 @@
 - [Variables, constantes y zero values](src/01-variables-constantes/main.go)
 - [Operadores aritmeticos](src/02-operadores-aritmeticos/main.go)
 - [Paquete fmt](src/03-paquete-fmt/main.go)
+- [Uso de funciones](src/04-uso-de-funciones/main.go)
+- [for while](src/05-for-while/main.go)
