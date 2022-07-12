@@ -1,1 +1,3 @@
 - [Variables, constantes y zero values](src/01-variables-constantes/main.go)
+- [Operadores aritmeticos](src/02-operadores-aritmeticos/main.go)
+- [Paquete fmt](src/03-paquete-fmt/main.go)
